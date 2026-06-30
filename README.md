@@ -1,1 +1,1 @@
-https://github.com/Svynapp/Svyn.privacy/deployments/github-pages
+https://svynapp.github.io/Svyn.privacy/
